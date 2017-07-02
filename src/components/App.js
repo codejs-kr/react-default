@@ -1,4 +1,5 @@
 import React from 'react';
+require('../css/style.css');
 
 class App extends React.Component {
   constructor(props) {
